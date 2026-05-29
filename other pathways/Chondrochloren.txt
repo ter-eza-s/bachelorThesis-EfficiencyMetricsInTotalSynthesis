@@ -1,0 +1,10 @@
+COC1=CC=C(COC[C@H](C(CC)=O)C)C=C1>>O[C@@H]([C@H](C([C@@H](COCC1=CC=C(C=C1)OC)C)=O)C)CCC
+COC1=CC=C(COC[C@H]([C@H]([C@@H]([C@@H](CCC)O)C)O)C)C=C1>>COC1=CC=C(C=C1)C1OC[C@H]([C@@H](O1)[C@H](C)[C@@H](CCC)O)C
+COC1=CC=C(C=C1)C1OC[C@H]([C@@H](O1)[C@H](C)[C@@H](CCC)O)C>l>COC1=CC=C(CO[C@H]([C@@H](CO)C)[C@@H]([C@@H](CCC)O)C)C=C1
+COC1=CC=C(CO[C@H]([C@@H](CO)C)[C@@H]([C@@H](CCC)O)C)C=C1>>[Si](C)(C)(C(C)(C)C)OC[C@H]([C@H]([C@@H]([C@@H](CCC)O)C)OCC1=CC=C(C=C1)OC)C
+[Si](C)(C)(C(C)(C)C)OC[C@H]([C@H]([C@@H]([C@@H](CCC)O)C)OCC1=CC=C(C=C1)OC)C>>C(O[C@H](CCC)[C@H]([C@@H]([C@@H](CO[Si](C)(C)C(C)(C)C)C)OCC1=CC=C(C=C1)OC)C)(=S)SC
+C(O[C@H](CCC)[C@H]([C@@H]([C@@H](CO[Si](C)(C)C(C)(C)C)C)OCC1=CC=C(C=C1)OC)C)(=S)SC>>C(C)(C)(C)[Si](C)(C)OC[C@H]([C@H]([C@@H](CCCC)C)OCC1=CC=C(C=C1)OC)C
+C(C)(C)(C)[Si](C)(C)OC[C@H]([C@H]([C@@H](CCCC)C)OCC1=CC=C(C=C1)OC)C>>COC1=CC=C(CO[C@H]([C@@H](CO)C)[C@@H](CCCC)C)C=C1
+COC1=CC=C(CO[C@H]([C@@H](CO)C)[C@@H](CCCC)C)C=C1>>COC1=CC=C(CO[C@H]([C@@H](C=O)C)[C@@H](CCCC)C)C=C1
+C(=O)[C@H]1[C@H]([C@@H]2[C@@H](OC(O2)(C)C)O1)OC=CC>>C(#C)[C@@H]1[C@H]([C@@H]2[C@@H](OC(O2)(C)C)O1)OC=CC
+C(#C)[C@@H]1[C@H]([C@@H]2[C@@H](OC(O2)(C)C)O1)OC=CC>Cl>[C@H]1([C@H]([C@H](C(O1)O)O)OCC=C)C#C
