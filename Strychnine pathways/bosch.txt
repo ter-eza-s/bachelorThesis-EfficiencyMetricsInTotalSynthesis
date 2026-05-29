@@ -1,0 +1,14 @@
+O=C1CCCC(C1(CC=C)C2=C([N+]([O-])=O)C=CC=C2)=O>>O=C1CCCC(C1(CC2OOCO2)C3=C([N+]([O-])=O)C=CC=C3)=O.N[C@H](C4=CC=CC=C4)C
+O=C1CCCC(C1(CC2OOCO2)C3=C([N+]([O-])=O)C=CC=C3)=O.N[C@H](C4=CC=CC=C4)C>>O=C(CCC[C@@H]1N([C@@H](C)C2=CC=CC=C2)CC3)[C@]13C4=C([N+]([O-])=O)C=CC=C4
+O=C(CCC[C@@H]1N([C@@H](C)C2=CC=CC=C2)CC3)[C@]13C4=C([N+]([O-])=O)C=CC=C4>>O=C(CCC[C@@H]1N(C(OC(C)C)=O)CC2)[C@]12C3=C([N+]([O-])=O)C=CC=C3
+O=C(CCC[C@@H]1N(C(OC(C)C)=O)CC2)[C@]12C3=C([N+]([O-])=O)C=CC=C3>>O=C(OC(C)C)N(CC1)[C@H]2CCC=C(O[Si](C)(C)C)[C@]21C3=C([N+]([O-])=O)C=CC=C3
+O=C(OC(C)C)N(CC1)[C@H]2CCC=C(O[Si](C)(C)C)[C@]21C3=C([N+]([O-])=O)C=CC=C3>>O=C(C([Se]C1=CC=CC=C1)CC[C@@H]2N(C(OC(C)C)=O)CC3)[C@]23C4=C([N+]([O-])=O)C=CC=C4
+O=C(C([Se]C1=CC=CC=C1)CC[C@@H]2N(C(OC(C)C)=O)CC3)[C@]23C4=C([N+]([O-])=O)C=CC=C4>>O=C(C=CC[C@@H]1N(C(OC(C)C)=O)CC2)[C@]12C3=C([N+]([O-])=O)C=CC=C3
+O=C(C=CC[C@@H]1N(C(OC(C)C)=O)CC2)[C@]12C3=C([N+]([O-])=O)C=CC=C3>>O=C(C=CC[C@@H]1NCC2)[C@]12C3=C([N+]([O-])=O)C=CC=C3
+O=C(C=CC[C@@H]1NCC2)[C@]12C3=C([N+]([O-])=O)C=CC=C3>>O=C(C=CC[C@@H]1N(C/C(I)=C/CO[Si](C)(C)C(C)(C)C)CC2)[C@]12C3=C([N+]([O-])=O)C=CC=C3
+O=C(C=CC[C@@H]1N(C/C(I)=C/CO[Si](C)(C)C(C)(C)C)CC2)[C@]12C3=C([N+]([O-])=O)C=CC=C3>>O=C(C[C@@]1([H])C[C@@H]2N(C/C1=C/CO)CC3)[C@]23C4=C([N+]([O-])=O)C=CC=C4
+O=C(C[C@@]1([H])C[C@@H]2N(C/C1=C/CO)CC3)[C@]23C4=C([N+]([O-])=O)C=CC=C4>>O=C(C(C(OC)=O)[C@@]1([H])C[C@@H]2N(C/C1=C/CO)CC3)[C@]23C4=C([N+]([O-])=O)C=CC=C4
+O=C(C(C(OC)=O)[C@@]1([H])C[C@@H]2N(C/C1=C/CO)CC3)[C@]23C4=C([N+]([O-])=O)C=CC=C4>>[H][C@@]1([C@]([C@]2([H])/C(C3)=C\CO)([H])C(OC)=O)NC4=CC=CC=C4[C@]15[C@H](C2)N3CC5
+[H][C@@]1([C@]([C@]2([H])/C(C3)=C\CO)([H])C(OC)=O)NC4=CC=CC=C4[C@]15[C@H](C2)N3CC5>>[H][C@@]1([C@]([C@]2([H])/C(C3)=C\CO)([H])C(OC)=O)NC4=CC=CC=C4[C@]15[C@H](C2)N3CC5
+[H][C@@]1([C@]([C@]2([H])/C(C3)=C\CO)([H])C(OC)=O)NC4=CC=CC=C4[C@]15[C@H](C2)N3CC5>>O[C@H]1[C@@]([C@]2([H])C(C3)=CCO1)([H])[C@]4([H])NC5=CC=CC=C5[C@]46[C@H](C2)N3CC6
+O[C@H]1[C@@]([C@]2([H])C(C3)=CCO1)([H])[C@]4([H])NC5=CC=CC=C5[C@]46[C@H](C2)N3CC6>>O=C1N2C3=CC=CC=C3[C@]4([C@H](C5)N6CC4)[C@]2([H])[C@]([C@]5([H])C(C6)=CCO7)([H])C7C1
